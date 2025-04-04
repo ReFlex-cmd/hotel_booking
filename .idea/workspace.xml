@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc7843db-064a-4c30-8089-32243bd86148" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hotel_booking.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotels/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotels/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel_booking/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotel_booking/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel_booking/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotel_booking/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotels/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotels/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotels/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotels/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +97,7 @@
       <updated>1743558795823</updated>
       <workItem from="1743558796863" duration="650000" />
       <workItem from="1743560168176" duration="9318000" />
-      <workItem from="1743640114073" duration="812000" />
+      <workItem from="1743640114073" duration="15430000" />
     </task>
     <servers />
   </component>

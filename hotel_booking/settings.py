@@ -88,6 +88,10 @@ DATABASES = {
     }
 }
 
+# Settings for media files (user uploads)
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
+
 AUTH_USER_MODEL = 'hotels.User'
 
 # Password validation
